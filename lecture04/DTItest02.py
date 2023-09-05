@@ -3,6 +3,6 @@ def showHi() :
     print("Hi......")
     print("สวัสดี.....")
     
+showHi()
 print("Hey......")
-
-#function แบบที่ 2 - Have parameter/No return
+showHi() #call function

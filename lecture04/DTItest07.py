@@ -7,3 +7,4 @@ nms = format(float(normal_salary),".2f")
 nets = format(float(net_salary),".2f")
 
 print(f"พนักงาน",(employee_name),"เงินเดือนสุทธิ",nets,"บาท")
+    
